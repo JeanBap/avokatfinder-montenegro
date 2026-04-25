@@ -1,0 +1,27 @@
+# montenegro.avokatfinder.com — llms.txt
+# Lawyers and notaries in Montenegro
+
+## Pages
+url: https://montenegro.avokatfinder.com/
+url: https://montenegro.avokatfinder.com/blog/employment-law-guide-expats-montenegro/
+url: https://montenegro.avokatfinder.com/blog/guide-to-lawyers-in-montenegro/
+url: https://montenegro.avokatfinder.com/blog/immigration-law-guide-expats-montenegro/
+url: https://montenegro.avokatfinder.com/blog/real-estate-law-guide-expats-montenegro/
+url: https://montenegro.avokatfinder.com/blog/lawyers-notaries-guide/
+url: https://montenegro.avokatfinder.com/practice-areas/banking-finance/
+url: https://montenegro.avokatfinder.com/practice-areas/corporate-ma/
+url: https://montenegro.avokatfinder.com/practice-areas/criminal-law/
+url: https://montenegro.avokatfinder.com/practice-areas/data-protection/
+url: https://montenegro.avokatfinder.com/practice-areas/dispute-resolution/
+url: https://montenegro.avokatfinder.com/practice-areas/employment/
+url: https://montenegro.avokatfinder.com/practice-areas/family-law/
+url: https://montenegro.avokatfinder.com/practice-areas/golden-visa/
+url: https://montenegro.avokatfinder.com/practice-areas/immigration/
+url: https://montenegro.avokatfinder.com/practice-areas/intellectual-property/
+url: https://montenegro.avokatfinder.com/practice-areas/real-estate/
+url: https://montenegro.avokatfinder.com/practice-areas/tax/
+url: https://montenegro.avokatfinder.com/cities/podgorica/
+url: https://montenegro.avokatfinder.com/cities/niksi/
+url: https://montenegro.avokatfinder.com/cities/herceg-novi/
+url: https://montenegro.avokatfinder.com/cities/bar/
+url: https://montenegro.avokatfinder.com/cities/bijelo-polje/
