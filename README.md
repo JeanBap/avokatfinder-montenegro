@@ -1,2 +1,0 @@
-# avokatfinder-montenegro
-AvokatFinder Montenegro
