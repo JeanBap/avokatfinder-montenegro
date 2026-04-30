@@ -43,6 +43,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://montenegro.avokatfinder.com/glossary/hipoteka.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://montenegro.avokatfinder.com/glossary/notar-montenegro.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://montenegro.avokatfinder.com/glossary/obligations-and-liability.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -55,7 +67,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://montenegro.avokatfinder.com/glossary/property-sheet-montenegro.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://montenegro.avokatfinder.com/glossary/ugovor-o-kupoprodaji.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://montenegro.avokatfinder.com/glossary/ugovor-zakupu.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
