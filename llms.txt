@@ -1,5 +1,31 @@
 # AvökatFinder Montenegro
-> English-speaking law firm directory for Montenegro
+> The English-language directory of lawyers and law firms in Montenegro for expats, foreign nationals and international businesses.
 
-Directory: https://montenegro.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://montenegro.avokatfinder.com/: Home — find an English-speaking lawyer in Montenegro
+- https://montenegro.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Montenegro
+- https://montenegro.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Montenegro legal terms
+- https://montenegro.avokatfinder.com/blog/: Expat legal guides and property law articles for Montenegro
+- https://montenegro.avokatfinder.com/about/: About AvökatFinder Montenegro
+- https://montenegro.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://montenegro.avokatfinder.com/glossary/contract-disputes/
+- https://montenegro.avokatfinder.com/glossary/hipoteka/
+- https://montenegro.avokatfinder.com/glossary/notar-montenegro/
+- https://montenegro.avokatfinder.com/glossary/obligations-and-liability/
+- https://montenegro.avokatfinder.com/glossary/property-rights/
+- https://montenegro.avokatfinder.com/glossary/property-sheet-montenegro/
+- https://montenegro.avokatfinder.com/glossary/ugovor-o-kupoprodaji/
+- https://montenegro.avokatfinder.com/glossary/ugovor-zakupu/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Montenegro
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://montenegro.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
